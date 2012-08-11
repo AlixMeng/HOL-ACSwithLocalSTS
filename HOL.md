@@ -47,7 +47,7 @@ The following is required to complete this hands-on lab:
 - [Microsoft Windows Identity Foundation Runtime][3]
 - [Microsoft Windows Identity Foundation SDK for .NET 4.0][4]
 - Microsoft Windows PowerShell
-- A Windows Azure subscription - you can [sign up for free trial](http://aka.ms/WATK-FreeTrial)
+- A Windows Azure subscription - [sign up for a free trial](http://aka.ms/WATK-FreeTrial)
 
 [1]:http://go.microsoft.com/fwlink/?linkid=186916
 [2]:http://msdn.microsoft.com/vstudio/products/
