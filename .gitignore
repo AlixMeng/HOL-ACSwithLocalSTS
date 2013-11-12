@@ -53,3 +53,4 @@ packages
 *.InstallLog
 
 /Source/Ex4-CreatingLeaderboard/End/NodeJs/.nuget
+entry.xml
